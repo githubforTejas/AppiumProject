@@ -1,2 +1,0 @@
-# AppiumProject
-FIRST APPIUM PROJECT
